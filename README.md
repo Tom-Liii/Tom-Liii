@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### This is Tom
-- 🤖️I'm interested in AI!
-- ⚽️I'm a crazy football fans!
+- 🤖️ I'm interested in AI!
+- ⚽️ I'm a crazy football fans!
 
