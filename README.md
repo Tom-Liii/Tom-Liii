@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 ### This is Tom
 - 🤖️ My research interest focus on computer vision. 
-- ⚽️ I'm a crazy football fans. 
+- ⚽️ I'm a crazy football fans.
+- You are welcome to visit my [perosonal homepage](https://tom-liii.github.io/) to check out more about me!
 
